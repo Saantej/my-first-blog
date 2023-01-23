@@ -1,0 +1,5 @@
+# my-second-project-on-django![Screenshot_23](https://user-images.githubusercontent.com/94299118/214109658-adce3090-deb6-4b58-938a-570bd878001e.png)
+![Screenshot_24](https://user-images.githubusercontent.com/94299118/214109675-42ba3a81-6052-42be-9cb7-e36dc02771f2.png)
+![Screenshot_25](https://user-images.githubusercontent.com/94299118/214109682-a7cbf089-a97c-4d3d-93b0-7bb741253cb9.png)
+![Screenshot_26](https://user-images.githubusercontent.com/94299118/214109688-ebf928c4-885d-4e38-8162-b9e39678cd0c.png)
+![Screenshot_27](https://user-images.githubusercontent.com/94299118/214109693-a55a564f-96e7-40cb-ab16-4d1e1ecbc1c8.png)
